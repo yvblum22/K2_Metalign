@@ -7,6 +7,7 @@ Everything else you need:
 https://github.com/DerrickWood/kraken2
 
 https://github.com/jenniferlu717/Bracken
+
 https://github.com/nlapier2/Metalign
 
 Manual:
