@@ -1,8 +1,8 @@
 # K2_Metalign
 
-Adds Kraken2 Functionality to Metalign as a Prefiltering step instead of kmc+cmash
+Adds Kraken2 Functionality to Metalign as a Prefiltering step instead of kmc+cmash \n
 Everything else you need:
-https://github.com/DerrickWood/kraken2
+https://github.com/DerrickWood/kraken2 
 https://github.com/jenniferlu717/Bracken
 https://github.com/nlapier2/Metalign
 
